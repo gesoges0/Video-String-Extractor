@@ -1,0 +1,1 @@
+# video-string-detector
