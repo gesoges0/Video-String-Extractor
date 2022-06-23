@@ -1,8 +1,7 @@
 # Vide String Extractor
 
-## 区切り位置を特定
-文字認識したい動画を用意
 
+### 文字認識したい動画を用意
 https://user-images.githubusercontent.com/33025417/175197402-2655c1d2-0fb6-4767-b804-aae63b633c5a.mp4
 
 ### 対象動画のみのディレクトリをつくると便利
