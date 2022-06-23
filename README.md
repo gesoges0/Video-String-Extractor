@@ -1,5 +1,4 @@
-# video-string-detector
-
+# Vide String Extractor
 
 ## 区切り位置を特定
 文字認識したい動画を用意
